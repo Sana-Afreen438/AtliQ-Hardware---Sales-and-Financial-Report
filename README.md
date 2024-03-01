@@ -1,1 +1,1 @@
-# AtliQ-Hardware---Sales-and-Financial-Report
+Welcome to the AtliQ Hardwares - Sales and Financial Reports repository, where meticulously crafted Microsoft Excel documents offer a detailed analysis of sales performance and financial health, empowering insights for informed decision-making.
